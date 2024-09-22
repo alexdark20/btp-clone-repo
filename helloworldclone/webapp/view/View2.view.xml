@@ -1,0 +1,7 @@
+<mvc:View controllerName="sap.btp.helloworldclone.controller.View2"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="clonehelloworld">
+        <content />
+    </Page>
+</mvc:View>
